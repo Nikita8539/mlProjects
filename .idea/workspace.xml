@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="efac8341-8c85-424f-a225-28fe662f8af5" name="Default Changelist" comment="" />
+    <list default="true" id="efac8341-8c85-424f-a225-28fe662f8af5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/data_ingestioon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/data_transformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/model_trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeline/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeline/predict_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeline/train_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,11 +72,27 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1680174852606">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1680174852606" />
+    <state x="704" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1680199998490">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="704" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672@0.0.1280.672" timestamp="1680199998490" />
     <state x="421" y="92" key="FileChooserDialogImpl" timestamp="1680106477616">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
